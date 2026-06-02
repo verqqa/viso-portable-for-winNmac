@@ -5,11 +5,13 @@ A ready-to-run portable version of VisoMaster Fusion with an added **background 
 ## What's Added
 
 - **Background Changer** — swap or replace backgrounds in real time alongside face swapping
+- **Webcam Fix** — resolved camera issues for smoother live webcam workflows
+- **Mac Support** — fully working on macOS (Apple Silicon and Intel)
 
 ## Requirements
 
-- Windows 10 / 11 64-bit or macOS
-- Nvidia RTX 3000, 4000, or 5000 series GPU
+- Windows 10 / 11 64-bit or macOS (Apple Silicon & Intel)
+- Nvidia RTX 3000, 4000, or 5000 series GPU (Windows) / Apple Silicon GPU (Mac)
 - 8 GB VRAM recommended (6 GB minimum)
 - Nvidia driver `>=576.57`
 - 20–30 GB free disk space
