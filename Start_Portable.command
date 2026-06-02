@@ -21,7 +21,7 @@ wait_exit() { echo ""; read -rp "Press Enter to close..."; exit "${1:-1}"; }
 BASE_DIR="$(pwd)"
 PORTABLE_DIR="$BASE_DIR/portable-files"
 CONFIG_FILE="$BASE_DIR/portable.cfg"
-REPO_URL="https://github.com/VisoMasterFusion/VisoMaster-Fusion.git"
+REPO_URL="https://github.com/verqqa/VisoMaster-Fusion.git"
 REPO_NAME="VisoMaster-Fusion"
 APP_DIR="$BASE_DIR/$REPO_NAME"
 

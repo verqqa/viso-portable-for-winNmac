@@ -40,7 +40,7 @@ echo Entering Full Setup / Command-Line Mode...
 echo.
 
 :: --- Basic Setup ---
-set "REPO_URL=https://github.com/VisoMasterFusion/VisoMaster-Fusion.git"
+set "REPO_URL=https://github.com/verqqa/VisoMaster-Fusion.git"
 for %%a in ("%REPO_URL%") do set "REPO_NAME=%%~na"
 set "APP_DIR=%BASE_DIR%%REPO_NAME%"
 
