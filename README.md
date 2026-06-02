@@ -1,4 +1,4 @@
-# VisoMaster Fusion — Portable for Windows & Mac
+# VisoMaster Aitotts Edition
 
 A ready-to-run portable version of VisoMaster Fusion with an added **background changer** feature. Optimized for RTX 3000, 4000, and 5000 series GPUs.
 
