@@ -4,13 +4,14 @@ portable-files/
 # Logs and output
 app_output.txt
 crash_logs/
+VisoMaster-Fusion/crash_logs/
 
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# Model/AI files
+# Model/AI weight files
 *.onnx
 *.engine
 *.pt
@@ -18,10 +19,12 @@ __pycache__/
 *.bin
 *.safetensors
 
-# VisoMaster model assets and jobs
+# Model assets and compiled engines
 VisoMaster-Fusion/model_assets/
-VisoMaster-Fusion/jobs/
 VisoMaster-Fusion/tensorrt-engines/
-VisoMaster-Fusion/crash_logs/
+
+# User jobs and workspace state
+VisoMaster-Fusion/jobs/
 VisoMaster-Fusion/last_workspace.json
 VisoMaster-Fusion/last_workspace.json.bak
+VisoMaster-Fusion/.thumbnails/
