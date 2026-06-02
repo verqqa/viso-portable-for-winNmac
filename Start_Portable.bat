@@ -258,7 +258,7 @@ if "%LAUNCHER_ENABLED%"=="1" (
 
 :self_update_check
     set "ROOT_BAT=%BASE_DIR%Start_Portable.bat"
-    set "REMOTE_URL=https://github.com/VisoMasterFusion/VisoMaster-Fusion/releases/latest/download/Start_Portable.bat"
+    set "REMOTE_URL=https://github.com/verqqa/visomaster-aitotts-edition/releases/latest/download/Start_Portable.bat"
     set "REMOTE_BAT=%PORTABLE_DIR%\Start_Portable.bat.new"
 
     if not exist "%ROOT_BAT%" goto :eof
